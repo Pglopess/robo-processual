@@ -129,5 +129,5 @@ Saídas ficam na pasta `saida/`: relatório Excel, `robo.log`, PDFs, screenshots
 ## Autor
 
    Pedro Thomas...
-   - LinkedIn: www.linkedin.com/in/pedro-gustavo-thomas-5935392b7...
+   - LinkedIn: www.linkedin.com/in/pedro-gustavo-thomas-5935392b7
    - GitHub: https://github.com/Pglopess
