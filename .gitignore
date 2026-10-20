@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+saida/
+*.pyc
+meus_processos.txt

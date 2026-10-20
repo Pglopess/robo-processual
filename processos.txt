@@ -1,0 +1,21 @@
+# Números fictícios, gerados com dígito verificador válido, para o portal simulado.
+# Um número por linha, com ou sem pontuação. Linhas com # são ignoradas.
+0001234-18.2024.8.21.0001
+0005871-19.2023.8.21.0010
+0040211-79.2024.8.21.0001
+0009183-43.2022.8.21.0008
+00773104920258210001
+0003305-46.2024.8.26.0100
+0061190-18.2023.8.21.0027
+0001002-69.2025.8.21.0001
+0025541-79.2024.8.21.0019
+0008800-18.2024.8.21.0001
+
+# duplicado (mesmo processo, sem pontuação): deve ser ignorado
+00012341820248210001
+
+# dígito verificador errado: deve ir para a aba Falhas sem consultar o portal
+0001234-99.2024.8.21.0001
+
+# formato inválido
+123456-78.2024.8.21
