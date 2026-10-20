@@ -125,3 +125,9 @@ Saídas ficam na pasta `saida/`: relatório Excel, `robo.log`, PDFs, screenshots
 - O DataJud traz metadados e movimentações, não o inteiro teor, e não inclui processos em segredo de justiça.
 - O robô do portal foi feito para o portal simulado. Para um tribunal real mudam os seletores, o login (muitos exigem certificado digital A1 ou A3) e pode haver captcha, que deve ser tratado como ponto de intervenção humana, não contornado.
 - Execução sequencial. Paralelizar com vários contextos do Playwright é possível, mas aumenta a carga no tribunal e o risco de bloqueio.
+
+## Autor
+
+   Pedro Thomas...
+   - LinkedIn: www.linkedin.com/in/pedro-gustavo-thomas-5935392b7...
+   - GitHub: https://github.com/Pglopess
